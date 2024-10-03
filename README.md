@@ -9,8 +9,8 @@ Mi carrera en el desarrollo de software comenzó durante mis estudios de Ingenie
 Actualmente trabajo de forma remota en *Teleperformance*, resolviendo problemas de clientes bancarios. Esto ha fortalecido mis habilidades de *resolución de problemas*, *paciencia*, y la capacidad de adaptarme a entornos exigentes y bajo presión.
 
 ## Habilidades
-- *Backend*: NestJS, NodeJS, Express, SQL, TypeScript
-- *Frontend*: React, JavaScript vanilla, CSS
+- *Backend*: NestJS, NodeJS, Express, SQL, TypeScript, TypeORM
+- *Frontend*: React, JavaScript vanilla, CSS, HTML
 - *Herramientas*: Git, GitHub, Cloudinary, Postman
 - *Otros*: Trabajo en equipo, análisis estratégico, y siempre con ganas de aprender más.
 
